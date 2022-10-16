@@ -1,0 +1,6 @@
+pybuilder
+pyspark
+xlrd
+pandas
+pytest
+boto3
